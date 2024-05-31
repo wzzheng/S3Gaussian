@@ -1,5 +1,5 @@
 # <i>S</i><sup>3</sup>Gaussian: Self-Supervised Street Gaussians for Autonomous Driving
-### [Paper](https://arxiv.org/abs/2405.20323)  | [Project Page](https://wzzheng.net/S3Gaussian) 
+### [Paper](https://arxiv.org/abs/2405.20323)  | [Project Page](https://wzzheng.net/S3Gaussian) | [Code](https://github.com/nnanhuang/S3Gaussian) 
 
 > <i>S</i><sup>3</sup>Gaussian: Self-Supervised Street Gaussians for Autonomous Driving
 
